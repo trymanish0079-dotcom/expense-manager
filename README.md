@@ -46,6 +46,27 @@ It removes dependence on:
 
 ---
 
+## 📸 App Screenshots
+
+### 🏠 Home Screen
+![Home](screenshots/home.jpg)
+
+### ➕ Add Expense & Income
+![Add Expense & Income](screenshots/addexpense_income.jpg)
+
+### 📅 Calendar View
+![Calendar View](screenshots/calendar_view.jpg)
+
+### 🔄 Change View (Daily / Monthly / Yearly)
+![Change View](screenshots/change_view.jpg)
+
+### ☑ Multi Select Mode
+![Multi Select](screenshots/multi_select.jpg)
+
+### 🔃 Sort & Filter Features
+![Sort & Filter](screenshots/sort_features.jpg)
+
+
 ## 🚀 Features
 
 ### 🧾 Transaction Management
