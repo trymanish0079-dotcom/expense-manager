@@ -8,6 +8,24 @@ It runs entirely inside your browser and stores everything locally using Indexed
 ---
 
 ## ❓ Why I Created This
+## 💬 Why I Built Expense Book
+
+I used to spend money every day and later wonder, *“Where did it all go?”*  
+I tried many expense tracker apps, but none felt right.
+
+Some were too complicated.  
+Some looked outdated.  
+Some locked useful features behind payment.  
+Most were heavy, needed internet, and stored my data somewhere I didn’t trust.
+
+I just wanted something simple — an app that helps me remember where my money went, without ads, without logins, and without sending my data to anyone.
+
+So I built Expense Book.
+
+It runs in your browser, works offline, takes almost no space, and keeps your data on your own device.  
+It’s not made for companies — it’s made for people who just want to understand their money.
+
+Expense Book is my way of solving a problem I personally faced — and now it’s here to help others too.
 
 Most finance apps today:
 - Require login
